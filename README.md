@@ -50,6 +50,9 @@ Freelance fullstack blockchain developer, working on several projects and attend
 
 # Hackathons 2025
 - Jives AI/Robotics Hackathon @ WEF 2025 Davos
+- Sozu AI Virtual Hack Week 01 (https://github.com/armsves/sozuHausWeek1)
+- Sozu AI Virtual Hack Week 02 (Planned)
+- Sozu AI Virtual Hack Week 03 (Planned)
 - EthOxford (Planned)
 - Ethiopia Addis Abeba (Planned)
 - EasyA Consensus Hackathon Hong Kong (Planned)

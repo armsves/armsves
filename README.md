@@ -16,41 +16,41 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - EthDam Amsterdam
 - zkHack Krakow
 - EthBerlin
-- EthBelgrade
-- Dagi House Hackathon Brussels
+- EthBelgrade https://github.com/armsves/EthBelgrade24TonCommerce
+- Dagi House Hackathon Brussels https://github.com/armsves/insAIght
 - Lambda Week Hackathon Brussels
 - Avail Naruto's Hidden Village Hackathon Brussels
-- EthGlobal Brussels 
-- EasyA Polkadot London
-- zkHack Montreal
+- EthGlobal Brussels https://github.com/armsves/ETHGlobalBrussels24MedicalRDA
+- EasyA Polkadot London https://github.com/armsves/EasyAPolkadotHackaton24
+- zkHack Montreal https://github.com/armsves/zkHackMontreal24PVoting
 - EthToronto
-- ICP hackathon Warsaw
-- EthWarsaw 
-- EasA Vechain hackathon Singapore
-- Gaia Builders Day Singapore
-- EthGlobal Singapore
-- European Blockchain Convention Radix hackathon Barcelona
-- EthRome
-- EasyA Stellar Meridian London
-- EthSofia
-- Cosmoverse Hackmos Cosmos hackathon Dubai
+- ICP hackathon Warsaw https://github.com/armsves/ICDynamicCatssets
+- EthWarsaw https://github.com/armsves/EthWarsaw2024-TickETHing
+- EasA Vechain hackathon Singapore https://github.com/armsves/EasyAVechainSingapore2024
+- Gaia Builders Day Singapore https://github.com/armsves/VenezuelAI
+- EthGlobal Singapore https://github.com/armsves/TailTrack
+- European Blockchain Convention Radix hackathon Barcelona https://github.com/armsves/JettyLend
+- EthRome https://github.com/armsves/EthRome2024Secret
+- EasyA Stellar Meridian London https://github.com/armsves/StellarGive
+- EthSofia https://github.com/armsves/OnlyCats
+- Cosmoverse Hackmos Cosmos hackathon Dubai https://github.com/armsves/SupportMEowBackend
 - Chainlink Hacker House - Space and Time hackathon Hong Kong
-- Edge City Lanna hackathon Chiang Mai (Online)
+- Edge City Lanna hackathon Chiang Mai (Online) https://github.com/armsves/CrowdHelping
 - ICP Chain Fusion hackathon Bangkok
 - BNB Hack Bangkok
-- Bitcoin hackathon Bangkok
+- Bitcoin hackathon Bangkok https://github.com/armsves/glittr-sdk-public
 - Babylon hackerhouse hackathon Bangkok
-- EduChain hackathon Bangkok
+- EduChain hackathon Bangkok https://github.com/armsves/attested
 - EthGlobal Bangkok
-- Atom Hackerhouse hackathon Barcelona
+- Atom Hackerhouse hackathon Barcelona https://github.com/armsves/IBCLendingHub
 - Solana Radar hackathon (Online)
 - OnlyDyst Od Hack 8 (Online)
 - Solana Colloseum hackathon (Online)
 - Redacted hackathon (Online)
 
 # Hackathons 2025
-- Jives AI/Robotics Hackathon @ WEF 2025 Davos
-- Sozu AI Virtual Hack Week 01 (https://github.com/armsves/sozuHausWeek1)
+- Jives AI/Robotics Hackathon @ WEF 2025 Davos https://github.com/armsves/SightSentinel
+- Sozu AI Virtual Hack Week 01 https://github.com/armsves/sozuHausWeek1
 - Sozu AI Virtual Hack Week 02 (Planned)
 - Sozu AI Virtual Hack Week 03 (Planned)
 - EthOxford (Planned)

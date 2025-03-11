@@ -51,13 +51,18 @@ Freelance fullstack blockchain developer, working on several projects and attend
 # Hackathons 2025
 - Jives AI/Robotics Hackathon @ WEF 2025 Davos https://github.com/armsves/SightSentinel
 - Sozu AI Virtual Hack Week 01 https://github.com/armsves/sozuHausWeek1
-- Sozu AI Virtual Hack Week 02 (Planned)
-- Sozu AI Virtual Hack Week 03 (Planned)
-- EthOxford (Planned)
-- Ethiopia Addis Abeba (Planned)
-- EasyA Consensus Hackathon Hong Kong (Planned)
-- EthDenver (Planned)
-- AiGentsBCN Hackathon Barcelona (Planned)
+- Sozu AI Virtual Hack Week 02-03 https://github.com/armsves/sozuHausWeek2
+- EthOxford https://github.com/armsves/EthOxford2025-OsirisAI
+- Ethiopia Addis Abeba https://github.com/armsves/CirclesXanimals
+- EasyA Consensus Hackathon Hong Kong https://github.com/armsves/EasyAConsensusHK2025
+- Encode Club Hackathon @EthDenver https://github.com/armsves/SwordfishII
+- ORA Secret Hack House @ EthDenver https://github.com/armsves/ORAopAgent
+- EthDenver https://github.com/armsves/hederadotfun
+- Ethaly v1 (Planned)
+- EthWarsaw Spring Hack (Planned)
+- EthBucharest (Planned)
+- Paris Blockchain Week Bizthon Hackathon (Planned)
+- EthDubai (Planned)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armsves) 

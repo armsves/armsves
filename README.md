@@ -58,10 +58,10 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - Encode Club Hackathon @EthDenver https://github.com/armsves/SwordfishII
 - ORA Secret Hack House @ EthDenver https://github.com/armsves/ORAopAgent
 - EthDenver https://github.com/armsves/hederadotfun
-- Ethaly v1 (Planned)
-- EthWarsaw Spring Hack (Planned)
+- EthWarsaw Spring Hack https://github.com/armsves/EthWarsawSpringHack2025
 - EthBucharest (Planned)
 - Paris Blockchain Week Bizthon Hackathon (Planned)
+- Encode Club AI London Hackathon (Planned)
 - EthDubai (Planned)
 
 ## 🌐 Socials:

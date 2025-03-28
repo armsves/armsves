@@ -11,14 +11,14 @@ Freelance fullstack blockchain developer, working on several projects and attend
 # Hackathons 2024
 
 - EthOxford
-- EthGlobal London
-- Mobile World Congress 2024 Barcelona
-- EthDam Amsterdam
-- zkHack Krakow
-- EthBerlin
+- EthGlobal London https://github.com/armsves/MotemaWorld
+- Mobile World Congress 2024 Barcelona https://github.com/armsves/MWCTalentArena2024Hackaton
+- EthDam Amsterdam https://github.com/armsves/OCTOoNFTs
+- zkHack Krakow https://github.com/armsves/zk-id-hyle
+- EthBerlin https://github.com/armsves/ethBerlin04
 - EthBelgrade https://github.com/armsves/EthBelgrade24TonCommerce
 - Dagi House Hackathon Brussels https://github.com/armsves/insAIght
-- Lambda Week Hackathon Brussels
+- Lambda Week Hackathon Brussels https://github.com/armsves/OD-LambdaHackWeek2-Stellar-Soroban
 - Avail Naruto's Hidden Village Hackathon Brussels
 - EthGlobal Brussels https://github.com/armsves/ETHGlobalBrussels24MedicalRDA
 - EasyA Polkadot London https://github.com/armsves/EasyAPolkadotHackaton24
@@ -36,17 +36,17 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - Cosmoverse Hackmos Cosmos hackathon Dubai https://github.com/armsves/SupportMEowBackend
 - Chainlink Hacker House - Space and Time hackathon Hong Kong
 - Edge City Lanna hackathon Chiang Mai (Online) https://github.com/armsves/CrowdHelping
-- ICP Chain Fusion hackathon Bangkok
-- BNB Hack Bangkok
+- ICP Chain Fusion hackathon Bangkok https://github.com/armsves/chainFusionHHMedium1
+- BNB Hack Bangkok 
 - Bitcoin hackathon Bangkok https://github.com/armsves/glittr-sdk-public
 - Babylon hackerhouse hackathon Bangkok
 - EduChain hackathon Bangkok https://github.com/armsves/attested
-- EthGlobal Bangkok
+- EthGlobal Bangkok 
 - Atom Hackerhouse hackathon Barcelona https://github.com/armsves/IBCLendingHub
-- Solana Radar hackathon (Online)
+- Solana Radar Hackathon (Online)
 - OnlyDyst Od Hack 8 (Online)
-- Solana Colloseum hackathon (Online)
-- Redacted hackathon (Online)
+- Solana Colloseum Hackathon (Online)
+- Redacted Hackathon (Online)
 
 # Hackathons 2025
 - Jives AI/Robotics Hackathon @ WEF 2025 Davos https://github.com/armsves/SightSentinel
@@ -59,9 +59,12 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - ORA Secret Hack House @ EthDenver https://github.com/armsves/ORAopAgent
 - EthDenver https://github.com/armsves/hederadotfun
 - EthWarsaw Spring Hack https://github.com/armsves/EthWarsawSpringHack2025
+- LUKSO Hack the Grid Week 3 (online) (ongoing)
 - EthBucharest (Planned)
 - Paris Blockchain Week Bizthon Hackathon (Planned)
+- Bio x AI Hackathon Berlin Hackathon (Planned)
 - Encode Club AI London Hackathon (Planned)
+- EasyA x Polkadot London Hackathon (Planned)
 - EthDubai (Planned)
 
 ## 🌐 Socials:

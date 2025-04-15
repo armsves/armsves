@@ -61,12 +61,16 @@ https://github.com/armsves/MWCTalentArena2024Hackaton
 - EthDenver https://github.com/armsves/hederadotfun
 - EthWarsaw Spring Hack 🏆 https://github.com/armsves/EthWarsawSpringHack2025
 - LUKSO Hack the Grid Week 3 (online) (ongoing)
-- EthBucharest 🏆 
-- Paris Blockchain Week Bizthon Hackathon
+- EthBucharest 🏆 https://github.com/armsves/EthBucharest2025TradingAgentBotElizaPlugin
+- Paris Blockchain Week Bizthon Hackathon https://github.com/armsves/born2bewild
 - Bio x AI Hackathon Berlin Hackathon (ongoing)
-- Encode Club AI London Hackathon (Planned)
+- Encode Club AI London Hackathon 🏆 https://github.com/armsves/PortiaNetherStarkware
 - EasyA x Polkadot London Hackathon (Planned)
-- EthDubai (Planned)
+- EthCDM Ciudad de México (Planned)
+- EthDam Ámsterdam  (Planned)
+- EthToronto (Planned)
+- Consensus Hackathon Toronto (Planned)
+- EthBratislava (Planned)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armsves) 

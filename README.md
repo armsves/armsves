@@ -65,12 +65,19 @@ https://github.com/armsves/MWCTalentArena2024Hackaton
 - Paris Blockchain Week Bizthon Hackathon https://github.com/armsves/born2bewild
 - Bio x AI Hackathon Berlin Hackathon (ongoing)
 - Encode Club AI London Hackathon 🏆 https://github.com/armsves/PortiaNetherStarkware
-- EasyA x Polkadot London Hackathon (Planned)
+- EasyA x Polkadot London Hackathon https://github.com/armsves/PolkaDPP
 - EthCDM Ciudad de México (Planned)
 - EthDam Ámsterdam  (Planned)
 - EthToronto (Planned)
 - Consensus Hackathon Toronto (Planned)
 - EthBratislava (Planned)
+- EthGlobal Prague (Planned)
+- EthBelgrade (Planned)
+- EthKyiv (Planned)
+- zkHack Berlin (Planned)
+- Istanhack (Planned)
+- EthGlobal Cannes (Planned)
+- Hacking Paris Chilliz (Planned)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armsves) 

@@ -65,19 +65,22 @@ https://github.com/armsves/MWCTalentArena2024Hackaton
 - Bio x AI Hackathon Berlin Hackathon (ongoing)
 - Encode Club AI London Hackathon 🏆 https://github.com/armsves/PortiaNetherStarkware
 - EasyA x Polkadot London Hackathon 🏆 https://github.com/armsves/PolkaDPP
-- EthCDM Ciudad de México 🏆https://github.com/armsves/PawChain
+- EthCDM Ciudad de México 🏆 https://github.com/armsves/PawChain
 - Lukso - Hack the grid Level 3 (online) https://github.com/armsves/LuksoWeek3LuksoMarketplace
-- EthDam Ámsterdam  (Planned)
+- EthDam Ámsterdam 🏆 https://github.com/armsves/animalsHealthandRewards
 - EthToronto (Planned)
-- Consensus Hackathon Toronto (Planned)
+- Aleo Hackathon https://github.com/armsves/LeoZilla
+- Consensus Hackathon Toronto 🏆 https://github.com/armsves/RateZilla
 - EthBratislava (Planned)
+- Avalanche Hackathon London (Planned)
 - EthGlobal Prague (Planned)
 - EthBelgrade (Planned)
 - EthKyiv (Planned)
+- Web3Privacy Hackathon Berlin (Planned)
 - zkHack Berlin (Planned)
 - Istanhack (Planned)
 - EthGlobal Cannes (Planned)
-- Hacking Paris Chilliz (Planned)
+- Hacking Paris Chiliz (Planned)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armsves) 

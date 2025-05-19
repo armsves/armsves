@@ -4,75 +4,75 @@ Started programming before 12yo with basic (commodore 64, 128, 128c and Apple II
 Freelance fullstack blockchain developer, working on several projects and attending a lot of IRL and online hackathons.
 
 # Hackathons 2023
-1 - Polkadot Decoded Copenhagen 🏆 https://github.com/armsves/polkadothackaton
-2 - ICP Online Hackathon https://github.com/armsves/cityhop.es
-3 - EthBarcelona https://github.com/armsves/XDCEthBarcelonaHackDefi 
-4 - European Blockchain Convention XDC Hackacthon 🏆 https://github.com/armsves/udexfront
-5 - EthGlobal Istanbul 🏆 https://github.com/armsves/ETHGlobalIstanbul23Hackaton
+- 1 - Polkadot Decoded Copenhagen 🏆 https://github.com/armsves/polkadothackaton
+- 2 - ICP Online Hackathon https://github.com/armsves/cityhop.es
+- 3 - EthBarcelona https://github.com/armsves/XDCEthBarcelonaHackDefi 
+- 4 - European Blockchain Convention XDC Hackacthon 🏆 https://github.com/armsves/udexfront
+- 5 - EthGlobal Istanbul 🏆 https://github.com/armsves/ETHGlobalIstanbul23Hackaton
 
 # Hackathons 2024
-6 - Zero to Dapp ICP Online Hackathon https://github.com/armsves/ICPCommerce
-7 - EthOxford 🏆
-8 - EthGlobal London https://github.com/armsves/MotemaWorld 🏆
-9 - Mobile World Congress 2024 Barcelona 🏆 https://github.com/armsves/MWCTalentArena2024Hackaton
-10 - EthDam Amsterdam https://github.com/armsves/OCTOoNFTs
-11 - zkHack Krakow 🏆 https://github.com/armsves/zk-id-hyle
-12 - EthBerlin 🏆 https://github.com/armsves/ethBerlin04
-13 - Zero to Dapp ICP Belgrade Hackathon https://github.com/armsves/zeroToDappBelgrade24
-14 - EthBelgrade https://github.com/armsves/EthBelgrade24TonCommerce
-15 - Dagi House Hackathon Brussels 🏆 https://github.com/armsves/insAIght
-16 - Lambda Week Hackathon Brussels 🏆 https://github.com/armsves/OD-LambdaHackWeek2-Stellar-Soroban
-17 - Avail Naruto's Hidden Village Hackathon Brussels 🏆
-18 - EthGlobal Brussels 🏆 https://github.com/armsves/ETHGlobalBrussels24MedicalRDA
-19 - EasyA Polkadot London https://github.com/armsves/EasyAPolkadotHackaton24
-20 - zkHack Montreal 🏆 https://github.com/armsves/zkHackMontreal24PVoting
-21 - EthToronto
-22 - ICP hackathon Warsaw 🏆 https://github.com/armsves/ICDynamicCatssets
-23 - EthWarsaw 🏆 https://github.com/armsves/EthWarsaw2024-TickETHing
-24 - EasA Vechain hackathon Singapore https://github.com/armsves/EasyAVechainSingapore2024
-25 - Gaia Builders Day Singapore 🏆 https://github.com/armsves/VenezuelAI
-26 - EthGlobal Singapore https://github.com/armsves/TailTrack
-27 - European Blockchain Convention Radix hackathon Barcelona https://github.com/armsves/JettyLend
-28 - EthRome 🏆 https://github.com/armsves/EthRome2024Secret
-29 - EasyA Stellar Meridian London https://github.com/armsves/StellarGive
-30 - EthSofia 🏆 https://github.com/armsves/OnlyCats
-31 - Cosmoverse Hackmos Cosmos hackathon Dubai 🏆 https://github.com/armsves/SupportMEowBackend
-32 - Chainlink Hacker House - Space and Time hackathon Hong Kong 🏆
-33 - Edge City Lanna hackathon Chiang Mai (Online) 🏆 https://github.com/armsves/CrowdHelping
-34 - ICP Chain Fusion hackathon Bangkok 🏆 https://github.com/armsves/chainFusionHHMedium1
-35 - BNB Hack Bangkok 🏆 
-36 - Encode Club Bitcoin hackathon Bangkok 🏆 https://github.com/armsves/glittr-sdk-public
-37 - Babylon hackerhouse hackathon Bangkok 🏆
-38 - EduChain hackathon Bangkok 🏆 https://github.com/armsves/attested
-39 - EthGlobal Bangkok 🏆 
-40 - Atom Hackerhouse hackathon Barcelona 🏆 https://github.com/armsves/IBCLendingHub
-41 - Solana Radar Hackathon (Online)
-42 - OnlyDyst Od Hack 8 (Online)
-43 - Solana Colloseum Hackathon (Online) 🏆
-44 - Redacted Hackathon (Online) 🏆
+- 6 - Zero to Dapp ICP Online Hackathon https://github.com/armsves/ICPCommerce
+- 7 - EthOxford 🏆
+- 8 - EthGlobal London https://github.com/armsves/MotemaWorld 🏆
+- 9 - Mobile World Congress 2024 Barcelona 🏆 https://github.com/armsves/MWCTalentArena2024Hackaton
+- 10 - EthDam Amsterdam https://github.com/armsves/OCTOoNFTs
+- 11 - zkHack Krakow 🏆 https://github.com/armsves/zk-id-hyle
+- 12 - EthBerlin 🏆 https://github.com/armsves/ethBerlin04
+- 13 - Zero to Dapp ICP Belgrade Hackathon https://github.com/armsves/zeroToDappBelgrade24
+- 14 - EthBelgrade https://github.com/armsves/EthBelgrade24TonCommerce
+- 15 - Dagi House Hackathon Brussels 🏆 https://github.com/armsves/insAIght
+- 16 - Lambda Week Hackathon Brussels 🏆 https://github.com/armsves/OD-LambdaHackWeek2-Stellar-Soroban
+- 17 - Avail Naruto's Hidden Village Hackathon Brussels 🏆
+- 18 - EthGlobal Brussels 🏆 https://github.com/armsves/ETHGlobalBrussels24MedicalRDA
+- 19 - EasyA Polkadot London https://github.com/armsves/EasyAPolkadotHackaton24
+- 20 - zkHack Montreal 🏆 https://github.com/armsves/zkHackMontreal24PVoting
+- 21 - EthToronto
+- 22 - ICP hackathon Warsaw 🏆 https://github.com/armsves/ICDynamicCatssets
+- 23 - EthWarsaw 🏆 https://github.com/armsves/EthWarsaw2024-TickETHing
+- 24 - EasA Vechain hackathon Singapore https://github.com/armsves/EasyAVechainSingapore2024
+- 25 - Gaia Builders Day Singapore 🏆 https://github.com/armsves/VenezuelAI
+- 26 - EthGlobal Singapore https://github.com/armsves/TailTrack
+- 27 - European Blockchain Convention Radix hackathon Barcelona https://github.com/armsves/JettyLend
+- 28 - EthRome 🏆 https://github.com/armsves/EthRome2024Secret
+- 29 - EasyA Stellar Meridian London https://github.com/armsves/StellarGive
+- 30 - EthSofia 🏆 https://github.com/armsves/OnlyCats
+- 31 - Cosmoverse Hackmos Cosmos hackathon Dubai 🏆 https://github.com/armsves/SupportMEowBackend
+- 32 - Chainlink Hacker House - Space and Time hackathon Hong Kong 🏆
+- 33 - Edge City Lanna hackathon Chiang Mai (Online) 🏆 https://github.com/armsves/CrowdHelping
+- 34 - ICP Chain Fusion hackathon Bangkok 🏆 https://github.com/armsves/chainFusionHHMedium1
+- 35 - BNB Hack Bangkok 🏆 
+- 36 - Encode Club Bitcoin hackathon Bangkok 🏆 https://github.com/armsves/glittr-sdk-public
+- 37 - Babylon hackerhouse hackathon Bangkok 🏆
+- 38 - EduChain hackathon Bangkok 🏆 https://github.com/armsves/attested
+- 39 - EthGlobal Bangkok 🏆 
+- 40 - Atom Hackerhouse hackathon Barcelona 🏆 https://github.com/armsves/IBCLendingHub
+- 41 - Solana Radar Hackathon (Online)
+- 42 - OnlyDyst Od Hack 8 (Online)
+- 43 - Solana Colloseum Hackathon (Online) 🏆
+- 44 - Redacted Hackathon (Online) 🏆
 
 # Hackathons 2025
-45 - Jives AI/Robotics Hackathon @ WEF 2025 Davos https://github.com/armsves/SightSentinel
-46 - Sozu AI Virtual Hack Week 01 🏆 https://github.com/armsves/sozuHausWeek1
-47 - Sozu AI Virtual Hack Week 02-03 🏆 https://github.com/armsves/sozuHausWeek2
-48 - EthOxford https://github.com/armsves/EthOxford2025-OsirisAI
-49 - Ethiopia Addis Abeba https://github.com/armsves/CirclesXanimals
-50 - EasyA Consensus Hackathon Hong Kong https://github.com/armsves/EasyAConsensusHK2025
-51 - Encode Club Hackathon @EthDenver 🏆  https://github.com/armsves/SwordfishII
-52 - ORA Secret Hack House @EthDenver 🏆 https://github.com/armsves/ORAopAgent
-53 - EthDenver https://github.com/armsves/hederadotfun
-54 - EthWarsaw Spring Hack 🏆 https://github.com/armsves/EthWarsawSpringHack2025
-55 - EthBucharest 🏆 https://github.com/armsves/EthBucharest2025TradingAgentBotElizaPlugin
-56 - Paris Blockchain Week Bizthon Hackathon https://github.com/armsves/born2bewild
-57 - Bio x AI Hackathon Berlin Hackathon (ongoing)
-58 - Encode Club AI London Hackathon 🏆 https://github.com/armsves/PortiaNetherStarkware
-59 - EasyA x Polkadot London Hackathon 🏆 https://github.com/armsves/PolkaDPP
-60 - EthCDM Ciudad de México 🏆 https://github.com/armsves/PawChain
-61 - Lukso - Hack the grid Level 3 (online) https://github.com/armsves/LuksoWeek3LuksoMarketplace
-62 - EthDam Ámsterdam 🏆 https://github.com/armsves/animalsHealthandRewards
-63 - EthToronto
-64 - Aleo Hackathon https://github.com/armsves/LeoZilla
-65 - Consensus Hackathon Toronto 🏆 https://github.com/armsves/RateZilla
+- 45 - Jives AI/Robotics Hackathon @ WEF 2025 Davos https://github.com/armsves/SightSentinel
+- 46 - Sozu AI Virtual Hack Week 01 🏆 https://github.com/armsves/sozuHausWeek1
+- 47 - Sozu AI Virtual Hack Week 02-03 🏆 https://github.com/armsves/sozuHausWeek2
+- 48 - EthOxford https://github.com/armsves/EthOxford2025-OsirisAI
+- 49 - Ethiopia Addis Abeba https://github.com/armsves/CirclesXanimals
+- 50 - EasyA Consensus Hackathon Hong Kong https://github.com/armsves/EasyAConsensusHK2025
+- 51 - Encode Club Hackathon @EthDenver 🏆  https://github.com/armsves/SwordfishII
+- 52 - ORA Secret Hack House @EthDenver 🏆 https://github.com/armsves/ORAopAgent
+- 53 - EthDenver https://github.com/armsves/hederadotfun
+- 54 - EthWarsaw Spring Hack 🏆 https://github.com/armsves/EthWarsawSpringHack2025
+- 55 - EthBucharest 🏆 https://github.com/armsves/EthBucharest2025TradingAgentBotElizaPlugin
+- 56 - Paris Blockchain Week Bizthon Hackathon https://github.com/armsves/born2bewild
+- 57 - Bio x AI Hackathon Berlin Hackathon (ongoing)
+- 58 - Encode Club AI London Hackathon 🏆 https://github.com/armsves/PortiaNetherStarkware
+- 59 - EasyA x Polkadot London Hackathon 🏆 https://github.com/armsves/PolkaDPP
+- 60 - EthCDM Ciudad de México 🏆 https://github.com/armsves/PawChain
+- 61 - Lukso - Hack the grid Level 3 (online) https://github.com/armsves/LuksoWeek3LuksoMarketplace
+- 62 - EthDam Ámsterdam 🏆 https://github.com/armsves/animalsHealthandRewards
+- 63 - EthToronto
+- 64 - Aleo Hackathon https://github.com/armsves/LeoZilla
+- 65 - Consensus Hackathon Toronto 🏆 https://github.com/armsves/RateZilla
 - EthBratislava (Planned)
 - Avalanche Hackathon London (Planned)
 - EthGlobal Prague (Planned)

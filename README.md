@@ -13,7 +13,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 # Hackathons 2024
 - 6 - Zero to Dapp ICP Online Hackathon https://github.com/armsves/ICPCommerce
 - 7 - EthOxford 🏆
-- 8 - EthGlobal London https://github.com/armsves/MotemaWorld 🏆
+- 8 - EthGlobal London 🏆 https://github.com/armsves/MotemaWorld
 - 9 - Mobile World Congress 2024 Barcelona 🏆 https://github.com/armsves/MWCTalentArena2024Hackaton
 - 10 - EthDam Amsterdam https://github.com/armsves/OCTOoNFTs
 - 11 - zkHack Krakow 🏆 https://github.com/armsves/zk-id-hyle
@@ -37,7 +37,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 29 - EasyA Stellar Meridian London https://github.com/armsves/StellarGive
 - 30 - EthSofia 🏆 https://github.com/armsves/OnlyCats
 - 31 - Cosmoverse Hackmos Cosmos hackathon Dubai 🏆 https://github.com/armsves/SupportMEowBackend
-- 32 - Chainlink Hacker House - Space and Time hackathon Hong Kong 🏆
+- 32 - Chainlink Hacker House - Space and Time Hackathon Hong Kong 🏆
 - 33 - Edge City Lanna hackathon Chiang Mai (Online) 🏆 https://github.com/armsves/CrowdHelping
 - 34 - ICP Chain Fusion hackathon Bangkok 🏆 https://github.com/armsves/chainFusionHHMedium1
 - 35 - BNB Hack Bangkok 🏆 

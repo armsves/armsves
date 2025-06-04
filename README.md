@@ -73,12 +73,11 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 63 - EthToronto
 - 64 - Aleo Hackathon https://github.com/armsves/LeoZilla
 - 65 - Consensus Hackathon Toronto 🏆 https://github.com/armsves/RateZilla
-- EthBratislava (Planned)
-- Avalanche Hackathon London (Planned)
-- EthGlobal Prague (Planned)
-- EthBelgrade (Planned)
-- EthKyiv (Planned)
+- 66 - Avalanche Hackathon London 🏆 https://github.com/armsves/GeoGuard
+- 67 - EthGlobal Prague 🏆 https://github.com/armsves/YellowScoutExplorer & https://github.com/armsves/YellowScoutExplorerBackend
+- 68 - EthBelgrade 🏆 https://github.com/armsves/xSollaTetris
 - Web3Privacy Hackathon Berlin (Planned)
+- Agents Without Masters Hackathon with NEAR AI (Planned)
 - zkHack Berlin (Planned)
 - Istanhack (Planned)
 - EthGlobal Cannes (Planned)

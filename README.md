@@ -92,7 +92,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - Encode Club Research Hackathon (Planned)
 - Cosmoverse Split (Planned)
 - EthLatam São Paulo (Planned)
-- EthGlobal Buenos Aires (Planned)
+- 100 - 🤩🥳 EthGlobal Buenos Aires (Planned) 🤩🥳
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armsves) 

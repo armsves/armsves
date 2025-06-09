@@ -77,21 +77,26 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 67 - EthGlobal Prague 🏆 https://github.com/armsves/YellowScoutExplorer & https://github.com/armsves/YellowScoutExplorerBackend
 - 68 - EthBelgrade 🏆 https://github.com/armsves/xSollaTetris
 - Web3Privacy Hackathon Berlin (Planned)
+- Cardano Hackathon and Networking | Berlin (Planned)
 - Agents Without Masters Hackathon with NEAR AI (Planned)
+- OpenServ Berlin Hack (Planned)
 - zkHack Berlin (Planned)
+- Hack Pera Istanbul (Planned)
 - Istanhack (Planned)
 - EthGlobal Cannes (Planned)
 - Hacking Paris Chiliz (Planned)
-- Polkadot Berlin Hackathon (Planned)
-- EthWarsaw (Planned)
+- Web3Summit Polkadot Berlin Hackathon (Planned)
+- Ethglobal New York (Planned)
+- EthWarsaw/ Istanbul Blockchain Week Hackathon (Planned)
 - EthSafari (Planned)
-- EthWien (Planned)
+- EthTokyo (Planned)
 - EthSofia (Planned)
 - European Blockchain Convention Hackathon (Planned)
 - EthRome (Planned)
 - Encode Club Research Hackathon (Planned)
 - Cosmoverse Split (Planned)
 - EthLatam São Paulo (Planned)
+- Polkadot sub0 symbiosis (Planned)
 - 100 - 🤩🥳 EthGlobal Buenos Aires (Planned) 🤩🥳
 
 ## 🌐 Socials:

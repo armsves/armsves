@@ -76,14 +76,13 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 66 - Avalanche Hackathon London 🏆 https://github.com/armsves/GeoGuard
 - 67 - EthGlobal Prague 🏆 https://github.com/armsves/YellowScoutExplorer & https://github.com/armsves/YellowScoutExplorerBackend
 - 68 - EthBelgrade 🏆 https://github.com/armsves/xSollaTetris
-- 69 - Cardano Hackathon and Networking | Berlin (Ongoing)
-- 70 - Web3Privacy Hackathon Berlin (Ongoing)
+- 69 - Cardano Hackathon and Networking | Berlin 🏆 https://github.com/armsves/midnightVoting
+- 70 - Web3Privacy Hackathon Berlin https://github.com/armsves/midnightVotingW3PN
 - Agents Without Masters Hackathon with NEAR AI (Planned)
 - OpenServ Berlin Hack (Planned)
 - AI Agents Summit - hackAIthon (Planned)
 - zkHack Berlin (Planned)
 - Hack Pera Istanbul (Planned)
-- Istanhack (Planned)
 - EthGlobal Cannes (Planned)
 - Hacking Paris Chiliz (Planned)
 - Web3Summit Polkadot Berlin Hackathon (Planned)

@@ -1,5 +1,7 @@
 # 💫 About Me:
-Started programming before 12yo with basic (commodore 64, 128, 128c and Apple IIc) at 12yo started with Pascal, have played with more than 50 programming languages, did php+sql for over 20 years in e-commerce.
+Started programming before 12yo with basic (commodore 64, 128, 128c and Apple IIc) at 12yo started with Pascal, have played with more than 50 programming languages, did PHP+SQL for over 20 years in e-commerce.
+
+My web3 stack started with Motoko, then Solidity and finally Rust, also touching Cairo, Noir and Move. For the frontend mostly React with Nextjs and sometimes if needed postgresql database. 
 
 Freelance fullstack blockchain developer, working on several projects and attending a lot of IRL and online hackathons.
 
@@ -78,16 +80,15 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 68 - EthBelgrade 🏆 https://github.com/armsves/xSollaTetris
 - 69 - Cardano Hackathon and Networking | Berlin 🏆 https://github.com/armsves/midnightVoting
 - 70 - Web3Privacy Hackathon Berlin https://github.com/armsves/midnightVotingW3PN
-- Agents Without Masters Hackathon with NEAR AI (Planned)
-- OpenServ Berlin Hack (Planned)
-- AI Agents Summit - hackAIthon (Planned)
-- zkHack Berlin (Planned)
-- Hack Pera Istanbul (Planned)
+- 71 - Agents Without Masters Hackathon with NEAR AI
+- 72 - OpenServ Berlin Hack
+- 73 - AI Agents Summit - hackAIthon
+- 74 - Hack Pera Istanbul
 - EthGlobal Cannes (Planned)
 - Hacking Paris Chiliz (Planned)
 - Web3Summit Polkadot Berlin Hackathon (Planned)
 - EthGlobal New York (Planned)
-- EthWarsaw/ Istanbul Blockchain Week Hackathon (Planned)
+- EthWarsaw / Istanbul Blockchain Week Hackathon (Planned)
 - EthSafari (Planned)
 - EthTokyo (Planned)
 - EthSofia (Planned)

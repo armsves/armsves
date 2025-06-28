@@ -84,6 +84,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 72 - 🏆 OpenServ Berlin Hack https://github.com/armsves/venXasTelegramTwitterLeaderboard
 - 73 - AI Agents Summit - hackAIthon https://github.com/armsves/TgICPGPT
 - 74 - Hack Pera Istanbul https://github.com/armsves/stellar-loot
+- 75 - Moca Identity House Hackathon https://github.com/armsves/BioRebate
 - EthGlobal Cannes (Planned)
 - Hacking Paris Chiliz (Planned)
 - Web3Summit Polkadot Berlin Hackathon (Planned)

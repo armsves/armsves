@@ -85,7 +85,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 73 - AI Agents Summit - hackAIthon https://github.com/armsves/TgICPGPT
 - 74 - Hack Pera Istanbul https://github.com/armsves/stellar-loot
 - 75 - Moca Identity House Hackathon https://github.com/armsves/BioRebate
-- EthGlobal Cannes (Planned)
+- 76 - 🏆 EthGlobal Cannes https://github.com/armsves/SohamNumberFive
 - Hacking Paris Chiliz (Planned)
 - Web3Summit Polkadot Berlin Hackathon (Planned)
 - EthGlobal New York (Planned)

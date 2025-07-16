@@ -87,7 +87,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 75 - Moca Identity House Hackathon https://github.com/armsves/BioRebate
 - 76 - 🏆 EthGlobal Cannes https://github.com/armsves/SohamNumberFive
 - 77 - Hacking Paris Chiliz https://github.com/armsves/Blazaar
-- Web3Summit Polkadot Berlin Hackathon (Planned)
+- 78 - Web3Summit Polkadot Berlin Hackathon https://github.com/armsves/PolkaVote
 - EthGlobal New York (Planned)
 - EthWarsaw / Istanbul Blockchain Week Hackathon (Planned)
 - EthSafari (Planned)

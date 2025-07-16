@@ -49,7 +49,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 39 - 🏆 EthGlobal Bangkok 
 - 40 - 🏆 Atom Hackerhouse hackathon Barcelona https://github.com/armsves/IBCLendingHub
 - 41 - Solana Radar Hackathon (Online)
-- 42 - OnlyDyst Od Hack 8 (Online)
+- 42 - OnlyDust Od Hack 8 (Online)
 - 43 - 🏆 Solana Colloseum Hackathon (Online)
 - 44 - 🏆 Redacted Hackathon (Online)
 

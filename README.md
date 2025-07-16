@@ -48,9 +48,9 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 38 - 🏆 EduChain hackathon Bangkok https://github.com/armsves/attested
 - 39 - 🏆 EthGlobal Bangkok 
 - 40 - 🏆 Atom Hackerhouse hackathon Barcelona https://github.com/armsves/IBCLendingHub
-- 41 - Solana Radar Hackathon (Online)
+- 41 - Solana Reinassance Hackathon (Online) https://github.com/orgs/Majime-sol/repositories
 - 42 - OnlyDust Od Hack 8 (Online)
-- 43 - 🏆 Solana Colloseum Hackathon (Online)
+- 43 - 🏆 Solana Radar Hackathon (Online) https://github.com/blonk-b/blonk-platform
 - 44 - 🏆 Redacted Hackathon (Online)
 
 # Hackathons 2025

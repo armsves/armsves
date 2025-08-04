@@ -87,16 +87,19 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 75 - Moca Identity House Hackathon https://github.com/armsves/BioRebate
 - 76 - 🏆 EthGlobal Cannes https://github.com/armsves/SohamNumberFive
 - 77 - Hacking Paris Chiliz https://github.com/armsves/Blazaar
-- 78 - Web3Summit Polkadot Berlin Hackathon https://github.com/armsves/PolkaVote
+- 78 - 🏆 Web3Summit Polkadot Berlin Hackathon https://github.com/armsves/PolkaVote
+- 79 - EthGlobal Unite Defi (Online) https://github.com/armsves/1InchxStellar
 - EthGlobal New York (Planned)
+- Mobil3 Hackathon (Online)
+- Aleph Hackathon (Online)
 - EthWarsaw / Istanbul Blockchain Week Hackathon (Planned)
-- EthSafari (Planned)
+- EuroThetaCon Hackathon (Planned)
+- EthGlobal Open Agents (Online)
 - EthTokyo (Planned)
 - EthSofia (Planned)
-- European Blockchain Convention Hackathon (Planned)
 - EthRome (Planned)
-- Encode Club Research Hackathon (Planned)
-- Hackin Flowers Medellin (Planned)
+- Encode Club Research Hackathon / EthBishKek (Planned)
+- EthGlobal EthOnline (Online)
 - Cosmoverse Split (Planned)
 - EthLatam São Paulo (Planned)
 - Polkadot sub0 symbiosis (Planned)

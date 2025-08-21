@@ -92,8 +92,9 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 80 - 🏆 EthGlobal New York https://github.com/armsves/SecretPineapple
 - Mobil3 Hackathon (Online)
 - Aleph Hackathon (Online)
+- Algorand Hackathon Berlin (Planned)
 - EthWarsaw / Istanbul Blockchain Week Hackathon (Planned)
-- EuroThetaCon Hackathon (Planned)
+- EuroThetaCon Berlin Hackathon (Planned)
 - EthGlobal Open Agents (Online)
 - EthTokyo (Planned)
 - Sui-mming Hackathon 2025 (Planned)

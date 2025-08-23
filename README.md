@@ -89,8 +89,8 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 77 - 🏆 EthGlobal Cannes https://github.com/armsves/SohamNumberFive
 - 78 - Hacking Paris Chiliz https://github.com/armsves/Blazaar
 - 79 - 🏆 Web3Summit Polkadot Berlin Hackathon https://github.com/armsves/PolkaVote
-- 81 - EthGlobal Unite Defi (Online) https://github.com/armsves/1InchxStellar
-- 82 - 🏆 EthGlobal New York https://github.com/armsves/SecretPineapple
+- 80 - EthGlobal Unite Defi (Online) https://github.com/armsves/1InchxStellar
+- 81 - 🏆 EthGlobal New York https://github.com/armsves/SecretPineapple
 - Mobil3 Hackathon (Online)
 - Aleph Hackathon (Online)
 - Algorand Hackathon Berlin (Planned)

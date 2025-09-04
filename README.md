@@ -92,8 +92,8 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 80 - EthGlobal Unite Defi (Online) https://github.com/armsves/1InchxStellar
 - 81 - 🏆 EthGlobal New York https://github.com/armsves/SecretPineapple
 - 82 - Mobil3 Hackathon (Online) https://github.com/armsves/PayLinkMonadMobil3
-- Aleph Hackathon (Online)
-- Algorand Hackathon Berlin (Planned)
+- 83 - Aleph Hackathon (Online) https://github.com/armsves/SecureKYC
+- 84 - Algorand Hackathon Berlin https://github.com/armsves/AlgoMintAI
 - EthWarsaw Hackathon (Planned)
 - EuroThetaCon Berlin Hackathon (Planned)
 - EthGlobal Open Agents (Online)
@@ -102,7 +102,6 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - EthGlobal Delhi (Planned)
 - Token2049 Singapore Origins Hackathon (Planned)
 - Merge Tech Madrid (Planned)
-- EBC Barcelona (Planned)
 - EthRome (Planned)
 - Encode Club Research London Hackathon / EthBishKek (Planned)
 - EthGlobal EthOnline (Online)

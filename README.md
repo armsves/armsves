@@ -94,7 +94,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 82 - Mobil3 Hackathon (Online) https://github.com/armsves/PayLinkMonadMobil3
 - 83 - Aleph Hackathon (Online) https://github.com/armsves/SecureKYC
 - 84 - 🏆 Algorand Hackathon Berlin https://github.com/armsves/AlgoMintAI
-- EthWarsaw Hackathon (Planned)
+- 85- EthWarsaw Hackathon https://github.com/armsves/Chainkenstein
 - EuroThetaCon Berlin Hackathon (Planned)
 - EthGlobal Open Agents (Online)
 - Sui-mming Seoul Hackathon 2025 (Planned)

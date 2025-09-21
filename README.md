@@ -96,12 +96,12 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 84 - 🏆 Algorand Hackathon Berlin https://github.com/armsves/AlgoMintAI
 - 85 - 🏆 EthWarsaw Hackathon https://github.com/armsves/Chainkenstein
 - 86 - EuroThetaCon Berlin Hackathon https://github.com/armsves/ThetaStudio
-- EthGlobal Open Agents (Online)
-- Sui-mming Seoul Hackathon 2025 (Planned)
-- Hyperliquid Seoul Hackathon (Planned)
+- 87 - Solana Startup Villa Seoul https://github.com/armsves/DappScore
+- 88 - 🏆 Sui-mming Seoul Hackathon 2025 https://github.com/armsves/Sui-mmingPay
+- 89 - Hyperliquid Seoul Hackathon https://github.com/armsves/HyperPlug/settings/access?guidance_task=
 - EthGlobal Delhi (Planned)
+- EthGlobal Open Agents (Online)
 - Token2049 Singapore Origins Hackathon (Planned)
-- Merge Tech Madrid (Planned)
 - EthRome (Planned)
 - Encode Club Research London Hackathon / EthBishKek (Planned)
 - EthGlobal EthOnline (Online)

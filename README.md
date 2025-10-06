@@ -101,6 +101,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 89 - 🏆 Hyperliquid Seoul Hackathon https://github.com/armsves/HyperPlug/settings/access?guidance_task=
 - 90 - EthGlobal Delhi https://github.com/armsves/HyperDapp
 - 91 - 🏆 Token2049 Singapore Origins Hackathon https://github.com/armsves/telepay2049
+- 92 - Solana CypherPunk Hackathon (Online)
 - EthGlobal Open Agents (Online)
 - EthRome (Planned)
 - Encode Club Research London Hackathon / EthBishKek (Planned)

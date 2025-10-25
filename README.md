@@ -103,9 +103,9 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 91 - 🏆 Token2049 Singapore Origins Hackathon https://github.com/armsves/telepay2049
 - 92 - Solana CypherPunk Hackathon (Online)
 - 93 - Polkadot Builder Party (Online)
-- EthGlobal Open Agents (Online)
-- EthRome (Planned)
-- Encode Club Research London Hackathon / EthBishKek (Planned)
+- 94 - 🏆 EthRome https://github.com/armsves/ethrome2025
+- 95 - Hedera Africa Hackathon (Online)
+- 96 - Encode Club Research London Hackathon
 - EthGlobal EthOnline (Online)
 - Cosmoverse Split (Planned)
 - EthLatam São Paulo (Planned)

@@ -106,11 +106,12 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 94 - 🏆 EthRome https://github.com/armsves/ethrome2025
 - 95 - Hedera Africa Hackathon (Online)
 - 96 - Encode Club Research London Hackathon
-- EthGlobal EthOnline (Online)
-- Cosmoverse Split (Planned)
+- 97 - Cosmoverse Hackmos Split
+- Loops hacker house hackathon 
 - EthLatam São Paulo (Planned)
 - Polkadot sub0 symbiosis (Planned)
-- 100 - 🤩🥳 EthGlobal Buenos Aires (Planned) 🤩🥳
+- Hyperliquid Hackathon Buenos Aires (Planned) 
+- EthGlobal Buenos Aires (Planned)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armsves) 

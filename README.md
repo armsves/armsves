@@ -104,7 +104,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 92 - 🏆 EthRome https://github.com/armsves/ethrome2025
 - 93 - 🏆 Encode Club Research London Hackathon https://github.com/armsves/marketplace-id-plt-frontend
 - 94 - Solana CypherPunk Hackathon https://github.com/armsves/DappScoreZ
-- 95 - Hedera Africa Hackathon (Online) / Forte Hacks by Flow (Online)
+- 95 - Hedera Africa Hackathon (Online) / Forte Hacks by Flow (Online) https://github.com/armsves/CargoShares
 - 96 - Cosmoverse Hackmos Split
 - 97 - Polkadot Builder Party (Online)
 - Loops hacker house hackathon 

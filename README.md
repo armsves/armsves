@@ -101,16 +101,17 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 89 - 🏆 Hyperliquid Seoul Hackathon https://github.com/armsves/HyperPlug/settings/access?guidance_task=
 - 90 - EthGlobal Delhi https://github.com/armsves/HyperDapp
 - 91 - 🏆 Token2049 Singapore Origins Hackathon https://github.com/armsves/telepay2049
-- 92 - Solana CypherPunk Hackathon (Online)
-- 93 - Polkadot Builder Party (Online)
-- 94 - 🏆 EthRome https://github.com/armsves/ethrome2025
-- 95 - Hedera Africa Hackathon (Online)
-- 96 - 🏆 Encode Club Research London Hackathon https://github.com/armsves/marketplace-id-plt-frontend 
-- 97 - Cosmoverse Hackmos Split
+- 92 - 🏆 EthRome https://github.com/armsves/ethrome2025
+- 93 - 🏆 Encode Club Research London Hackathon https://github.com/armsves/marketplace-id-plt-frontend
+- 94 - Solana CypherPunk Hackathon https://github.com/armsves/DappScoreZ
+- 95 - Hedera Africa Hackathon (Online) / Forte Hacks by Flow (Online)
+- 96 - Cosmoverse Hackmos Split
+- 97 - Polkadot Builder Party (Online)
 - Loops hacker house hackathon 
 - EthLatam São Paulo (Planned)
 - Polkadot sub0 symbiosis (Planned)
-- Hyperliquid Hackathon Buenos Aires (Planned) 
+- Hyperliquid Hackathon Buenos Aires (Planned)
+- Midnight Hackathon London (Planned)
 - EthGlobal Buenos Aires (Planned)
 
 ## 🌐 Socials:

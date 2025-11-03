@@ -107,9 +107,9 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 95 - Hedera Africa Hackathon (Online) / Forte Hacks by Flow (Online) https://github.com/armsves/CargoShares
 - 96 - 🏆 Cosmoverse Hackmos Split https://github.com/armsves/FissionPay https://github.com/armsves/PrivateRecharge
 - 97 - Polkadot Builder Party (Online)
-- Loops hacker house hackathon 
-- EthLatam São Paulo (Planned)
-- Polkadot sub0 symbiosis (Planned)
+- 98 - EthLatam São Paulo (Planned)
+- Loops Hacker House Hackathon Buenos Aires
+- Polkadot Sub0 Symbiosis Buenos Aires (Planned)
 - Hyperliquid Hackathon Buenos Aires (Planned)
 - Midnight Hackathon London (Planned)
 - EthGlobal Buenos Aires (Planned)

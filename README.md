@@ -87,7 +87,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 75 - Hack Pera Istanbul https://github.com/armsves/stellar-loot
 - 76 - Moca Identity House Hackathon https://github.com/armsves/BioRebate
 - 77 - 🏆 EthGlobal Cannes https://github.com/armsves/SohamNumberFive
-- 78 - Hacking Paris Chiliz https://github.com/armsves/Blazaar
+- 78 - 🏆 Hacking Paris Chiliz https://github.com/armsves/Blazaar
 - 79 - 🏆 Web3Summit Polkadot Berlin Hackathon https://github.com/armsves/PolkaVote
 - 80 - EthGlobal Unite Defi (Online) https://github.com/armsves/1InchxStellar
 - 81 - 🏆 EthGlobal New York https://github.com/armsves/SecretPineapple
@@ -106,8 +106,8 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 94 - Solana CypherPunk Hackathon https://github.com/armsves/DappScoreZ
 - 95 - Hedera Africa Hackathon (Online) / Forte Hacks by Flow (Online) https://github.com/armsves/CargoShares
 - 96 - 🏆 Cosmoverse Hackmos Split https://github.com/armsves/FissionPay https://github.com/armsves/PrivateRecharge
-- 97 - EthLatam São Paulo https://github.com/armsves/RescueDAO
-- 98 - Loops Hacker House Hackathon Buenos Aires
+- 97 - 🏆 EthLatam São Paulo https://github.com/armsves/RescueDAO
+- 98 - Loops Hacker House Hackathon Buenos Aires https://github.com/armsves/LoopsBSAS
 - 99 - Polkadot Builder Party (Online)
   
 <h1>100 - Polkadot Sub0 Symbiosis Buenos Aires (Planned)</h1>

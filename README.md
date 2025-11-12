@@ -110,6 +110,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 98 - Loops Hacker House Hackathon Buenos Aires https://github.com/armsves/ContribHub
 - 99 - Cardano Hackathon 2025 Buenos Aires (Planned)
 <h1>100 - Polkadot Sub0 Symbiosis Buenos Aires (Planned)</h1>
+
 - Polkadot Builder Party (Online)
 - Hyperliquid Hackathon Buenos Aires (Planned)
 - BNB Chain x YZi Labs Hack Series: Buenos Aires (Planned)

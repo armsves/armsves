@@ -111,11 +111,10 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 99 - Cardano Hackathon 2025 Buenos Aires https://github.com/iog-edu-uba-2025/samurai-de-cardano-bebop
 <h1>100 - Polkadot Sub0 Symbiosis Buenos Aires https://github.com/armsves/dMegle</h1>
 
-- Polkadot Builder Party (Online)
-- Hyperliquid Hackathon Buenos Aires (Planned)
-- BNB Chain x YZi Labs Hack Series: Buenos Aires (Planned)
-- Encode x Arc DeFi Hackathon (Online) (Planned)
-- Midnight Hackathon London (Planned)
+- 101 - Encode x Arc DeFi Hackathon (Online) https://github.com/armsves/arcwise
+- 102 - Hyperliquid Hackathon Buenos Aires https://github.com/armsves/hyperliquid-hackathon-ba-25/tree/main
+- 103 - BNB Chain x YZi Labs Hack Series: Buenos Aires (Planned)
+- 104 - Midnight Hackathon London (Planned)
 - Ethereum Argentina Hackathon Tierra de Buidlers (Planned)
 - EthGlobal Buenos Aires (Planned)
 

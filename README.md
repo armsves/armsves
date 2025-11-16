@@ -109,7 +109,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 97 - 🏆 EthLatam São Paulo https://github.com/armsves/RescueDAO
 - 98 - Loops Hacker House Hackathon Buenos Aires https://github.com/armsves/ContribHub
 - 99 - Cardano Hackathon 2025 Buenos Aires https://github.com/iog-edu-uba-2025/samurai-de-cardano-bebop
-<h1>100 - Polkadot Sub0 Symbiosis Buenos Aires (Planned)</h1>
+<h1>100 - Polkadot Sub0 Symbiosis Buenos Aires https://github.com/armsves/dMegle</h1>
 
 - Polkadot Builder Party (Online)
 - Hyperliquid Hackathon Buenos Aires (Planned)

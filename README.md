@@ -115,7 +115,7 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 102 - Hyperliquid Hackathon Buenos Aires https://github.com/armsves/hyperliquid-hackathon-ba-25/tree/main
 - 103 - BNB Chain x YZi Labs Hack Series: Buenos Aires (Planned)
 - 104 - Midnight Hackathon London https://github.com/armsves/midnightOpenVote
-- Ethereum Argentina Hackathon Tierra de Buidlers (Planned)
+- 105 - Ethereum Argentina Hackathon Tierra de Buidlers https://github.com/armsves/PayFlow
 - EthGlobal Buenos Aires (Planned)
 
 ## 🌐 Socials:

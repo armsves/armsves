@@ -126,25 +126,22 @@ Freelance fullstack blockchain developer, working on several projects and attend
 - 1 - 🏆 Polkadot Decoded Copenhagen https://github.com/armsves/polkadothackaton
 
 # Education
-University of Burgos (2023-Present) Computer Engineering 4nd semester.
-EAE Business School Campus Barcelona (2014-2015) MBA with a Specialization in Management
-(Certified Scrum International Project Management)
-IUT-LV (2004-2005) 50 credits. University Technician in Computer Science. (Pascal, Assembler, C)
-Universidad Simón Bolívar (1999-2001) 48 credits. Bachelor's Degree in Mathematics. (Matlab, C, C++)
+- University of Burgos (2023-Present) Computer Engineering 4nd semester.
+- EAE Business School Campus Barcelona (2014-2015) MBA with a Specialization in Management (Certified Scrum International Project Management)
+- IUT-LV (2004-2005) 50 credits. University Technician in Computer Science. (Pascal, Assembler, C)
+- Universidad Simón Bolívar (1999-2001) 48 credits. Bachelor's Degree in Mathematics. (Matlab, C, C++)
 
-Encode Club (2023) Solana, Solidity, ZK, SUI, Near Bootcamp (72hs each), AI Foundation (12hs)
-Motoko Bootcamp Starter(2023). Web3 Motoko and deploying IC canisters.
-Proyecto Universidad Empresa PUE (2023) 120 hours. Advanced Java Programming
-Inkor (2023) 240 hours. Open Source Back End Web Developer (Javascipt, NodeJs, PHP with Laravel)
-Ironhack (2022) 240 hours. Java Back End Web Developer
-Smartmind (2022) 150 hours. Applied Machine Learning Using Python
-NT:FOR Learning (2022) 180 hours. Introduction to Artificial Intelligence and Algorithms
-Proyecto Universidad Empresa PUE (2022) 50 hours. Fundamentals of Python Programming
-Hedima Group (2022) 60 hours. Android Applications Programming
-Centro Escuela de Sistemas e Informática (1997-1998) 200 hours. Unix System Management (Bash), PHP, SQL,
-HTML, CSS, JavaScript, Perl.
-University of Carabobo Foundation (1994-1997) 320 hours. Analyst Programmer. (Pascal, Clipper, dBase, Foxpro,
-Visual Basic)
+- Encode Club (2023) Solana, Solidity, ZK, SUI, Near Bootcamp (72hs each), AI Foundation (12hs)
+- Motoko Bootcamp Starter(2023). Web3 Motoko and deploying IC canisters.
+- Proyecto Universidad Empresa PUE (2023) 120 hours. Advanced Java Programming
+- Inkor (2023) 240 hours. Open Source Back End Web Developer (Javascipt, NodeJs, PHP with Laravel)
+- Ironhack (2022) 240 hours. Java Back End Web Developer
+- Smartmind (2022) 150 hours. Applied Machine Learning Using Python
+- NT:FOR Learning (2022) 180 hours. Introduction to Artificial Intelligence and Algorithms
+- Proyecto Universidad Empresa PUE (2022) 50 hours. Fundamentals of Python Programming
+- Hedima Group (2022) 60 hours. Android Applications Programming
+- Centro Escuela de Sistemas e Informática (1997-1998) 200 hours. Unix System Management (Bash), PHP, SQL, HTML, CSS, JavaScript, Perl.
+- University of Carabobo Foundation (1994-1997) 320 hours. Analyst Programmer. (Pascal, Clipper, dBase, Foxpro, Visual Basic)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armsves) 

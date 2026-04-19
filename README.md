@@ -6,7 +6,8 @@ My web3 stack started with Motoko, then Solidity and finally Rust, also touching
 Freelance fullstack blockchain developer, working on several projects and attending a lot of IRL and online hackathons.
 
 # Hackathons 2026
-- 110 - EthGlobal Cannes (Planned)
+- 111 - EthSilesia https://github.com/armsves/CypherSpace
+- 110 - EthGlobal Cannes https://github.com/armsves/tripgent
 - 109 - 🏆 EthDenver https://github.com/armsves/ShieldYield
 - 108 - 🏆 0G EthDenver Hackathon 
 - 107 - EthChiangmai https://github.com/armsves/Durian

@@ -1,3 +1,4 @@
+![GithubProfile](https://github.com/armsves/armsves/blob/main/armsves-github-banner.png)
 # 💫 About Me:
 Started programming before 12yo with basic (commodore 64, 128, 128c and Apple IIc) at 12yo started with Pascal, have played with more than 50 programming languages, did PHP+SQL for over 20 years in e-commerce.
 

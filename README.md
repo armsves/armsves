@@ -7,8 +7,7 @@ My web3 stack started with Motoko, then Solidity and finally Rust, also touching
 Freelance fullstack blockchain developer, working on several projects and attending a lot of IRL and online hackathons.
 
 # Hackathons 2026
-- 117 - AI Agents Hackathon
-- 116 - Futura Camp Tempo MPP Hackathon https://github.com/armsves/TMPPConcierge
+- 116 - 🏆 Web3Summit Devcult play-a-thon https://github.com/armsves/rock-paper-scissors-lizard-spock
 - 115 - 🏆 PROMPT x PURCHASE — A Bitrefill Hackathon https://github.com/armsves/BitConcierge
 - 114 - 🏆 EthGlobal New York https://github.com/armsves/agentBazar
 - 113 - 🏆 Algorand Builders Berlin: Agentic Commerce x402 Hackathon https://github.com/armsves/AlgoEuPay

@@ -7,8 +7,9 @@ My web3 stack started with Motoko, then Solidity and finally Rust, also touching
 Freelance fullstack blockchain developer, working on several projects and attending a lot of IRL and online hackathons.
 
 # Hackathons 2026
-- 119 - EthGlobal Tokyo (planned) 25-27 September!
-- 118 - EthGlobal Online 
+- 120 - EthGlobal Tokyo https://github.com/armsves/realclanker
+- 119 - EthGlobal Online
+- 118 - 🏆 CommonS3nse https://github.com/armsves/Enscribe
 - 117 - 🏆 EthGlobal Lisbon https://github.com/armsves/sentinel
 - 116 - 🏆 Web3Summit Devcult play-a-thon https://github.com/armsves/rock-paper-scissors-lizard-spock
 - 115 - 🏆 PROMPT x PURCHASE — A Bitrefill Hackathon https://github.com/armsves/BitConcierge
